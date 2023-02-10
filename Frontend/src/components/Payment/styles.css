@@ -1,0 +1,26 @@
+.col-6.App-payment {
+  padding: 70px;
+}
+
+.form-1 {
+  margin: 80px auto 10px;
+  max-width: 550px;
+}
+
+.form-2 {
+  padding: 30px 0 30px 16px;
+}
+
+.form-actions {
+  margin-top: 15px;
+}
+
+.App-highlight {
+  font-family: serif;
+  margin: 15px auto 0;
+  max-width: 300px;
+}
+
+.App-highlight > div {
+  padding-left: 40px;
+}

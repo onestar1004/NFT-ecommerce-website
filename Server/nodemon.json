@@ -1,0 +1,4 @@
+{
+  "ext": ".js, .yaml, .jsx",
+  "ignore": "swagger_output.json"
+}
